@@ -11,3 +11,5 @@
 5. Start the app `npm start`
 
 6. Head to `http://localhost:3000/`
+
+7. The demo is available on [Heroku](https://tranquil-gorge-59373.herokuapp.com/)
